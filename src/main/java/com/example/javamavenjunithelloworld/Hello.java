@@ -12,6 +12,7 @@ public class Hello {
     // 再给master分支加注释
     public static final int ADD_VARIABLE = 10;
 
+    // 开发分支
     static final String HELLO = "Hello Java!";
 
     public static final int MAXIMUM_AMOUNT_OF_TIMES = 20;
