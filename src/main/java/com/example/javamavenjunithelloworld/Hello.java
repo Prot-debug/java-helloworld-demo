@@ -7,6 +7,7 @@ import java.io.PrintStream;
  */
 public class Hello {
 
+    // 测试git2！！！
     public static final int ADD_VARIABLE = 10;
 
     static final String HELLO = "Hello Java!";
