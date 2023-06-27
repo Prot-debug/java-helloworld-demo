@@ -9,6 +9,7 @@ public class Hello {
 
     // 测试git2！！！
     // 现在是给master分支加注释
+    // 再给master分支加注释
     public static final int ADD_VARIABLE = 10;
 
     static final String HELLO = "Hello Java!";
